@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="pardus-night-light-on-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="27.400388"
+     inkscape:cy="25.632621"
+     inkscape:window-width="1920"
+     inkscape:window-height="1127"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       class="st22"
+       d="M 9.5023914,10.607637 C 8.211012,10.233817 7.2254856,9.180323 6.8856489,7.9229272 6.4098775,6.1217926 7.1575182,4.4226091 8.5168651,3.5390337 5.3903673,3.5050504 2.9095594,6.393662 3.6572001,9.6560944 4.0989879,11.525196 5.5942694,12.95251 7.4633712,13.326331 10.080114,13.836086 12.458971,12.272837 13.172628,9.9619474 12.187101,10.675605 10.861738,11.015441 9.5023914,10.607637 Z"
+       id="path64"
+       style="fill:#b5b5b5;stroke-width:0.339836;opacity:0.5;fill-opacity:1" />
+    <g
+       id="g65"
+       transform="matrix(0.3398367,0,0,0.3398367,45.015327,4.7964294)">
+      <path
+         class="st0"
+         d="m -107.6,30.8 c -11,0 -20,-9 -20,-20 0,-11 9,-20 20,-20 11,0 20,9 20,20 0,11 -8.9,20 -20,20 z m 0,-37 c -9.4,0 -17,7.6 -17,17 0,9.4 7.6,17 17,17 9.4,0 17,-7.6 17,-17 0,-9.4 -7.6,-17 -17,-17 z"
+         id="path65"
+         style="fill:#2f3537" />
+    </g>
+  </g>
+</svg>

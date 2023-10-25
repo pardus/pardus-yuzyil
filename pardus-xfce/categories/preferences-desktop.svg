@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64"
+   style="enable-background:new 0 0 64 64;"
+   xml:space="preserve"
+   sodipodi:docname="preferences-desktop.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata67"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs65" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1014"
+   id="namedview63"
+   showgrid="false"
+   inkscape:zoom="3.6875"
+   inkscape:cx="32"
+   inkscape:cy="32"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+	.st4{fill:url(#SVGID_5_);}
+	.st5{fill:url(#SVGID_6_);}
+	.st6{fill:url(#SVGID_7_);}
+	.st7{fill:url(#SVGID_8_);}
+</style>
+<g
+   id="g60"
+   transform="matrix(0.95049505,0,0,0.95049505,1.5866337,1.5841584)">
+	<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="13.1976"
+   y1="53.4632"
+   x2="13.1976"
+   y2="22.993299">
+		<stop
+   offset="0"
+   style="stop-color:#2E2E2E"
+   id="stop4" />
+		<stop
+   offset="1"
+   style="stop-color:#454554"
+   id="stop6" />
+	</linearGradient>
+	<path
+   class="st0"
+   d="m 13.1,9.2 c -2.2,0 -4,1.9 -4,4.1 v 37.5 c 0,2.2 1.8,4 4,4 2.2,0 4,-1.8 4,-4 V 13.3 c 0,-2.2 -1.7,-4 -4,-4.1 0.1,0 0.1,0 0,0 z"
+   id="path9"
+   style="fill:url(#SVGID_1_)"
+   inkscape:connector-curvature="0" />
+	<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="50.650299"
+   y1="54.291698"
+   x2="50.900799"
+   y2="33.087898">
+		<stop
+   offset="0"
+   style="stop-color:#2E2E2E"
+   id="stop11" />
+		<stop
+   offset="1"
+   style="stop-color:#454554"
+   id="stop13" />
+	</linearGradient>
+	<path
+   class="st1"
+   d="m 46.8,32 v 18.8 c 0,2.2 1.8,4 4,4 2.2,0 4,-1.8 4,-4 V 32 Z"
+   id="path16"
+   style="fill:url(#SVGID_2_)"
+   inkscape:connector-curvature="0" />
+	<linearGradient
+   id="SVGID_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="32.123798"
+   y1="54.126999"
+   x2="31.9569"
+   y2="41.521702">
+		<stop
+   offset="0"
+   style="stop-color:#2E2E2E"
+   id="stop18" />
+		<stop
+   offset="1"
+   style="stop-color:#454554"
+   id="stop20" />
+	</linearGradient>
+	<path
+   class="st2"
+   d="m 28,38.7 v 12 c 0,2.2 1.8,4 4,4 2.2,0 4,-1.8 4,-4 v -12 z"
+   id="path23"
+   style="fill:url(#SVGID_3_)"
+   inkscape:connector-curvature="0" />
+	<linearGradient
+   id="SVGID_4_"
+   gradientUnits="userSpaceOnUse"
+   x1="30.9762"
+   y1="4.0555"
+   x2="31.894501"
+   y2="23.673201">
+		<stop
+   offset="0"
+   style="stop-color:#EAE7EA"
+   id="stop25" />
+		<stop
+   offset="1"
+   style="stop-color:#D6D3E3"
+   id="stop27" />
+	</linearGradient>
+	<path
+   class="st3"
+   d="m 31.9,9.2 c -2.2,0 -4,1.9 -4,4.1 V 38.8 H 36 V 13.3 C 36.1,11 34.2,9.2 31.9,9.2 Z"
+   id="path30"
+   style="fill:url(#SVGID_4_)"
+   inkscape:connector-curvature="0" />
+	<linearGradient
+   id="SVGID_5_"
+   gradientUnits="userSpaceOnUse"
+   x1="51.538399"
+   y1="7.8469"
+   x2="50.703602"
+   y2="24.5427">
+		<stop
+   offset="0"
+   style="stop-color:#EAE7EA"
+   id="stop32" />
+		<stop
+   offset="1"
+   style="stop-color:#D6D3E3"
+   id="stop34" />
+	</linearGradient>
+	<path
+   class="st4"
+   d="m 50.7,9.2 c -2.2,0 -4,1.9 -4,4.1 V 32 h 8.1 V 13.3 C 54.9,11 53,9.2 50.7,9.2 Z"
+   id="path37"
+   style="fill:url(#SVGID_5_)"
+   inkscape:connector-curvature="0" />
+	<linearGradient
+   id="SVGID_6_"
+   gradientUnits="userSpaceOnUse"
+   x1="12.8921"
+   y1="8.0534"
+   x2="13.3575"
+   y2="19.560499">
+		<stop
+   offset="0"
+   style="stop-color:#1379E6"
+   id="stop39" />
+		<stop
+   offset="1"
+   style="stop-color:#115CCC"
+   id="stop41" />
+	</linearGradient>
+	<path
+   class="st5"
+   d="M 7.5,9.2 H 19 c 0.4,0 0.7,0.3 0.7,0.7 v 11.5 c 0,0.4 -0.3,0.7 -0.7,0.7 H 7.5 C 7.1,22.1 6.8,21.8 6.8,21.4 V 9.9 C 6.8,9.5 7.1,9.2 7.5,9.2 Z"
+   id="path44"
+   style="fill:url(#SVGID_6_)"
+   inkscape:connector-curvature="0" />
+	<linearGradient
+   id="SVGID_7_"
+   gradientUnits="userSpaceOnUse"
+   x1="31.6945"
+   y1="27.3535"
+   x2="32.159901"
+   y2="38.8606">
+		<stop
+   offset="0"
+   style="stop-color:#1379E6"
+   id="stop46" />
+		<stop
+   offset="1"
+   style="stop-color:#115CCC"
+   id="stop48" />
+	</linearGradient>
+	<path
+   class="st6"
+   d="m 26.3,28.5 h 11.5 c 0.4,0 0.7,0.3 0.7,0.7 v 11.5 c 0,0.4 -0.3,0.7 -0.7,0.7 H 26.3 c -0.4,0 -0.7,-0.3 -0.7,-0.7 V 29.2 c 0,-0.4 0.3,-0.7 0.7,-0.7 z"
+   id="path51"
+   style="fill:url(#SVGID_7_)"
+   inkscape:connector-curvature="0" />
+	<linearGradient
+   id="SVGID_8_"
+   gradientUnits="userSpaceOnUse"
+   x1="50.496899"
+   y1="20.2313"
+   x2="50.962299"
+   y2="31.7384">
+		<stop
+   offset="0"
+   style="stop-color:#1379E6"
+   id="stop53" />
+		<stop
+   offset="1"
+   style="stop-color:#115CCC"
+   id="stop55" />
+	</linearGradient>
+	<path
+   class="st7"
+   d="m 45.1,21.4 h 11.5 c 0.4,0 0.7,0.3 0.7,0.7 v 11.5 c 0,0.4 -0.3,0.7 -0.7,0.7 H 45.1 c -0.4,0 -0.7,-0.3 -0.7,-0.7 V 22 c 0,-0.3 0.3,-0.6 0.7,-0.6 z"
+   id="path58"
+   style="fill:url(#SVGID_8_)"
+   inkscape:connector-curvature="0" />
+</g>
+</svg>

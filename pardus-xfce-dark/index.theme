@@ -1,0 +1,9 @@
+[Icon Theme]
+Name=Pardus Xfce Dark
+Name[tr]=Pardus Xfce Karanlık
+Comment=Dark icon theme for Pardus Xfce.
+Comment[tr]=Pardus Xfce için karanlık ikon teması.
+Inherits=pardus-xfce
+
+# List all directories
+Directories=

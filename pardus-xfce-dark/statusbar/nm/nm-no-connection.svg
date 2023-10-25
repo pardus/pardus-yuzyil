@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 64 64"
+   version="1.1"
+   sodipodi:docname="nm-no-connection.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="841"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="2.609375"
+     inkscape:cx="23.362755"
+     inkscape:cy="67.88553"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#929495;}.cls-2{fill:#2e3436;}</style>
+  </defs>
+  <path
+     class="cls-1"
+     d="M54.7,5H19.5a4.9,4.9,0,0,0-4.3,2.3,4.5,4.5,0,0,0-1,2.9v6.9H9.3A5.3,5.3,0,0,0,4,22.4V48.1a5.2,5.2,0,0,0,5.3,5.2H44.5a5.2,5.2,0,0,0,5.3-5.2V41.2h4.9a5.5,5.5,0,0,0,4.2-2A5.7,5.7,0,0,0,60,35.9V10.2A5.2,5.2,0,0,0,54.7,5ZM44.5,17.1H18.2V10.2a1,1,0,0,1,.2-.7,1.4,1.4,0,0,1,1.1-.6H54.7A1.3,1.3,0,0,1,56,10.2V35.9a1.9,1.9,0,0,1-.2.8,1.6,1.6,0,0,1-1.1.5H49.8V22.4A5.3,5.3,0,0,0,44.5,17.1Zm1.3,31a1.3,1.3,0,0,1-1.3,1.3H9.3A1.3,1.3,0,0,1,8,48.1V22.4a1.3,1.3,0,0,1,1.3-1.3H44.5a1.3,1.3,0,0,1,1.3,1.3Z"
+     id="path6" />
+  <path
+     class="cls-1"
+     d="M36.5,54.8H17.2a2,2,0,0,0-1.9,2,1.9,1.9,0,0,0,1.9,1.9H36.5a1.9,1.9,0,0,0,2-1.9A2,2,0,0,0,36.5,54.8Z"
+     id="path8" />
+  <path
+     class="cls-2"
+     d="M51.3,56.7a2.4,2.4,0,0,1-1.4-.5L2.9,10.7A2,2,0,0,1,5.7,7.8l47,45.5a1.9,1.9,0,0,1,0,2.8A2,2,0,0,1,51.3,56.7Z"
+     id="path10"
+     style="fill:#e6e6e6;fill-opacity:1" />
+</svg>
