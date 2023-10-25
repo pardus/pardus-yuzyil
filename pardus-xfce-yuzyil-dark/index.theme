@@ -1,0 +1,9 @@
+[Icon Theme]
+Name=Pardus Xfce 100th Year Dark
+Name[tr]=Pardus Xfce 100. Yıl Koyu
+Comment=Dark icon theme for Pardus Xfce.
+Comment[tr]=Pardus Xfce için koyu simge teması.
+Inherits=pardus-xfce-yuzyil
+
+# List all directories
+Directories=

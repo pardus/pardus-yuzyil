@@ -1,8 +1,8 @@
 [Icon Theme]
-Name=Pardus Xfce
-Name[tr]=Pardus Xfce
-Comment=Icon theme for Pardus Xfce.
-Comment[tr]=Pardus Xfce için simge teması.
+Name=Pardus Xfce 100th Year
+Name[tr]=Pardus Xfce 100. Yıl
+Comment=100th Year icon theme for Pardus Xfce.
+Comment[tr]=Pardus Xfce için 100. Yıl simge teması.
 Inherits=Adwaita,Tango
 
 # List all directories
