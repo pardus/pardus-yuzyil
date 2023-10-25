@@ -1,0 +1,13 @@
+Source: pardus-yuzyil
+Section: utils
+Priority: optional
+Maintainer: Fatih Altun <fatih.altun@pardus.org.tr>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.1
+Homepage: https://github.com/pardus/pardus-yuzyil
+
+Package: pardus-yuzyil
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, librsvg2-common
+Description: Pardus 100th Year Icon Theme.
+ Pardus 100th Year Icon Theme for Pardus Xfce,Gnome desktop environment.

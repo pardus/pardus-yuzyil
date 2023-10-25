@@ -1,0 +1,30 @@
+#!/bin/bash
+
+mkdir -p /usr/share/pardus/pardus-special-theme
+
+special_theme_json="/usr/share/pardus/pardus-special-theme/special_theme.json"
+
+if [[ -f "$special_theme_json" ]]; then
+    rm -f $special_theme_json
+fi
+
+cat > $special_theme_json <<EOF
+{
+  "light": {
+    "name": "pardus-@@desktop@@-yuzyil",
+    "pretty_tr": "100. Yıl Açık",
+    "pretty_en": "100th Year Light",
+    "background": "/usr/share/backgrounds/pardus-yuzyil.svg",
+    "image": "/usr/share/pardus/pardus-yuzyil/theme-light.png"
+  },
+  "dark": {
+    "name": "pardus-@@desktop@@-yuzyil-dark",
+    "pretty_tr": "100. Yıl Koyu",
+    "pretty_en": "100th Year Dark",
+    "background": "/usr/share/backgrounds/pardus-yuzyil.svg",
+    "image": "/usr/share/pardus/pardus-yuzyil/theme-dark.png"
+  }
+}
+EOF
+
+exit 0
