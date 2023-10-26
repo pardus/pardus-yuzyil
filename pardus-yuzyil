@@ -42,9 +42,9 @@ jsondump_file.close()
 
 
 if "xfce" in getenv("XDG_CURRENT_DESKTOP").lower() or "xfce" in getenv("XDG_SESSION_DESKTOP").lower() or "xfce" in getenv("DESKTOP_SESSION").lower():
-    Popen(["/usr/bin/pardus-xfce-greeter", "--page", "theme"])
+    Popen(["/usr/bin/pardus-xfce-greeter", "--page", "1"])
 elif "gnome" in getenv("XDG_CURRENT_DESKTOP").lower() or "gnome" in getenv("XDG_SESSION_DESKTOP").lower() or "gnome" in getenv("DESKTOP_SESSION").lower():
-    Popen(["/usr/bin/pardus-gnome-greeter", "--page", "theme"])
+    Popen(["/usr/bin/pardus-gnome-greeter", "--page", "2"])
 else:
     print("Your desktop environment not supported.")
     print(getenv("XDG_CURRENT_DESKTOP").lower())
