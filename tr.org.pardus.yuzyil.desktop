@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Pardus 100th Year Theme
+Name[tr]=Pardus 100. Yıl Teması
+GenericName=100th Year Theme
+GenericName[tr]=100. Yıl Teması
+Comment=Special theme for the 100th anniversary of the Republic of Türkiye
+Comment[tr]=Türkiye Cumhuriyeti'nin 100.yılına özel tema
+Exec=pardus-yuzyil
+Icon=pardus-yuzyil
+Terminal=false
+Type=Application
+Categories=System;X-Pardus-Apps;
+StartupNotify=true
+Keywords=cumhuriyet;tasarım;ikon;görünüm;
