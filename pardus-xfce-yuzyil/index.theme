@@ -3,7 +3,7 @@ Name=Pardus Xfce 100th Year
 Name[tr]=Pardus Xfce 100. Yıl
 Comment=100th Year icon theme for Pardus Xfce.
 Comment[tr]=Pardus Xfce için 100. Yıl simge teması.
-Inherits=Adwaita,Tango
+Inherits=pardus-xfce,Adwaita,Tango
 
 # List all directories
 Directories=statusbar,statusbar/battery,statusbar/nm,actions,places,categories,places/16x16,apps,mimes/office,mimes/audio,mimes/text,mimes/packages,mimes
