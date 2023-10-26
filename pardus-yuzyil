@@ -1,0 +1,35 @@
+#!/usr/bin/env python3
+
+from json import dump
+from pathlib import Path
+from subprocess import Popen
+
+user = "{}".format(Path.home())
+user_json_dir ="{}/.config/pardus/pardus-xfce-greeter".format(user)
+user_json_file = "{}/special_theme.json".format(user_json_dir)
+
+dic = {}
+
+dic["light"] = {}
+dic["dark"] = {}
+
+dic["light"]["name"] = "pardus-@@desktop@@-yuzyil"
+dic["light"]["pretty_tr"] = "100. Yıl Açık"
+dic["light"]["pretty_en"] = "100th Year Light"
+dic["light"]["background"] = "/usr/share/backgrounds/pardus-yuzyil.webp"
+dic["light"]["image"] = "/usr/share/pardus/pardus-yuzyil/theme-light.png"
+
+dic["dark"]["name"] = "pardus-@@desktop@@-yuzyil-dark"
+dic["dark"]["pretty_tr"] = "100. Yıl Koyu"
+dic["dark"]["pretty_en"] = "100th Year Dark"
+dic["dark"]["background"] = "/usr/share/backgrounds/pardus-yuzyil.webp"
+dic["dark"]["image"] = "/usr/share/pardus/pardus-yuzyil/theme-dark.png"
+
+Path(user_json_dir).mkdir(parents=True, exist_ok=True)
+
+jsondump_file = open(user_json_file, "w", encoding='utf8')
+dump(dic, jsondump_file, ensure_ascii=False, indent=2)
+jsondump_file.flush()
+jsondump_file.close()
+
+Popen(["/usr/bin/pardus-xfce-greeter", "--page", "theme"])
