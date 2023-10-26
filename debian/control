@@ -10,4 +10,5 @@ Package: pardus-yuzyil
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, librsvg2-common
 Description: Pardus 100th Year Theme.
+ Special theme for the 100th anniversary of the Republic of Türkiye.
  Pardus 100th Year Theme for Pardus Xfce,Gnome desktop environment.
