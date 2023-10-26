@@ -9,5 +9,5 @@ Homepage: https://github.com/pardus/pardus-yuzyil
 Package: pardus-yuzyil
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, librsvg2-common
-Description: Pardus 100th Year Icon Theme.
- Pardus 100th Year Icon Theme for Pardus Xfce,Gnome desktop environment.
+Description: Pardus 100th Year Theme.
+ Pardus 100th Year Theme for Pardus Xfce,Gnome desktop environment.
