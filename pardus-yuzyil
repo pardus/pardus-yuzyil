@@ -26,12 +26,14 @@ dic["light"]["pretty_tr"] = "100. Yıl Açık"
 dic["light"]["pretty_en"] = "100th Year Light"
 dic["light"]["background"] = "/usr/share/backgrounds/pardus-yuzyil.webp"
 dic["light"]["image"] = "/usr/share/pardus/pardus-yuzyil/theme-light.png"
+dic["light"]["panel"] = "/usr/share/icons/hicolor/scalable/apps/start-yuzyil.svg"
 
 dic["dark"]["name"] = "pardus-@@desktop@@-yuzyil-dark"
 dic["dark"]["pretty_tr"] = "100. Yıl Koyu"
 dic["dark"]["pretty_en"] = "100th Year Dark"
 dic["dark"]["background"] = "/usr/share/backgrounds/pardus-yuzyil.webp"
 dic["dark"]["image"] = "/usr/share/pardus/pardus-yuzyil/theme-dark.png"
+dic["dark"]["panel"] = "/usr/share/icons/hicolor/scalable/apps/start-yuzyil.svg"
 
 Path(user_json_dir).mkdir(parents=True, exist_ok=True)
 

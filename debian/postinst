@@ -15,14 +15,16 @@ cat > $special_theme_json <<EOF
     "pretty_tr": "100. Yıl Açık",
     "pretty_en": "100th Year Light",
     "background": "/usr/share/backgrounds/pardus-yuzyil.svg",
-    "image": "/usr/share/pardus/pardus-yuzyil/theme-light.png"
+    "image": "/usr/share/pardus/pardus-yuzyil/theme-light.png",
+    "panel": "/usr/share/icons/hicolor/scalable/apps/start-yuzyil.svg"
   },
   "dark": {
     "name": "pardus-@@desktop@@-yuzyil-dark",
     "pretty_tr": "100. Yıl Koyu",
     "pretty_en": "100th Year Dark",
     "background": "/usr/share/backgrounds/pardus-yuzyil.svg",
-    "image": "/usr/share/pardus/pardus-yuzyil/theme-dark.png"
+    "image": "/usr/share/pardus/pardus-yuzyil/theme-dark.png",
+    "panel": "/usr/share/icons/hicolor/scalable/apps/start-yuzyil.svg"
   }
 }
 EOF
