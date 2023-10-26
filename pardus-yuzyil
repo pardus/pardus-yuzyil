@@ -3,10 +3,18 @@
 from json import dump
 from pathlib import Path
 from subprocess import Popen
+import os
+
+
+def getenv(name):
+    if name in os.environ:
+        return os.environ[name]
+    else:
+        return ""
 
 user = "{}".format(Path.home())
-user_json_dir ="{}/.config/pardus/pardus-xfce-greeter".format(user)
-user_json_file = "{}/special_theme.json".format(user_json_dir)
+user_json_dir ="{}/.config/pardus/pardus-special-theme".format(user)
+user_json_file = "{}/special-theme.json".format(user_json_dir)
 
 dic = {}
 
@@ -32,4 +40,13 @@ dump(dic, jsondump_file, ensure_ascii=False, indent=2)
 jsondump_file.flush()
 jsondump_file.close()
 
-Popen(["/usr/bin/pardus-xfce-greeter", "--page", "theme"])
+
+if "xfce" in getenv("XDG_CURRENT_DESKTOP").lower() or "xfce" in getenv("XDG_SESSION_DESKTOP").lower() or "xfce" in getenv("DESKTOP_SESSION").lower():
+    Popen(["/usr/bin/pardus-xfce-greeter", "--page", "theme"])
+elif "gnome" in getenv("XDG_CURRENT_DESKTOP").lower() or "gnome" in getenv("XDG_SESSION_DESKTOP").lower() or "gnome" in getenv("DESKTOP_SESSION").lower():
+    Popen(["/usr/bin/pardus-gnome-greeter", "--page", "theme"])
+else:
+    print("Your desktop environment not supported.")
+    print(getenv("XDG_CURRENT_DESKTOP").lower())
+    print(getenv("XDG_SESSION_DESKTOP").lower())
+    print(getenv("DESKTOP_SESSION").lower())
