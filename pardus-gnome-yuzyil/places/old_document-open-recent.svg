@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64"
+   style="enable-background:new 0 0 64 64;"
+   xml:space="preserve"
+   sodipodi:docname="old_document-open-recent.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
+   id="metadata25"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs23"><linearGradient
+   inkscape:collect="always"
+   id="linearGradient52036"><stop
+     style="stop-color:#e30a17;stop-opacity:1;"
+     offset="0"
+     id="stop52032" /><stop
+     style="stop-color:#e30a17;stop-opacity:0;"
+     offset="1"
+     id="stop52034" /></linearGradient>
+	<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="33.150398"
+   y1="-4.4974999"
+   x2="31.683001"
+   y2="42.0569"
+   gradientTransform="matrix(0.828125,0,0,0.828125,5.5,5.5)"
+   xlink:href="#SVGID_2_">
+		<stop
+   offset="0"
+   style="stop-color:#3F6D8E"
+   id="stop4" />
+		<stop
+   offset="1"
+   style="stop-color:#294B64"
+   id="stop6" />
+	</linearGradient>
+	
+	<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="35.0467"
+   y1="7.4155998"
+   x2="35.5802"
+   y2="37.695999"
+   gradientTransform="matrix(0.828125,0,0,0.828125,5.5,5.5)">
+		<stop
+   offset="0"
+   style="stop-color:#FFD845"
+   id="stop11" />
+		<stop
+   offset="1"
+   style="stop-color:#FF9D21"
+   id="stop13" />
+	</linearGradient>
+	
+<linearGradient
+   inkscape:collect="always"
+   xlink:href="#linearGradient52036"
+   id="linearGradient52038"
+   x1="32.647606"
+   y1="53.807518"
+   x2="31.934877"
+   y2="-59.261429"
+   gradientUnits="userSpaceOnUse" /></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1007"
+   id="namedview21"
+   showgrid="false"
+   inkscape:zoom="2.6074563"
+   inkscape:cx="-101.05635"
+   inkscape:cy="27.996635"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1"
+   inkscape:pagecheckerboard="0" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+</style>
+<path
+   class="st0"
+   d="M 32,5.5 C 17.425,5.5 5.5,17.425 5.5,32 5.5,46.575 17.425,58.5 32,58.5 46.575,58.5 58.5,46.575 58.5,32 58.5,17.425 46.575,5.5 32,5.5 Z"
+   id="path9"
+   style="fill:url(#linearGradient52038);stroke-width:0.828125;fill-opacity:1"
+   inkscape:connector-curvature="0" /><path
+   class="st1"
+   d="M 35.229687,29.267187 C 34.898437,28.853125 34.65,28.35625 34.65,27.859375 V 17.425 c 0,-1.325 -0.99375,-2.65 -2.65,-2.65 -1.325,0 -2.65,0.99375 -2.65,2.65 V 29.35 c 0,0.165625 0,0.33125 0.08281,0.414062 0.248438,0.910938 0.745313,1.739063 1.407813,2.401563 L 37.3,38.625 c 0.414062,0.414062 0.910937,0.579687 1.490625,0.6625 1.325,0.08281 2.401562,-1.159375 2.31875,-2.484375 0,-0.579688 -0.165625,-1.159375 -0.496875,-1.407813 z M 36.30625,40.6125 c -0.165625,0 -0.414063,-0.08281 -0.579688,-0.248437 l -6.790625,-6.542188 c -0.33125,-0.33125 -0.33125,-0.828125 0,-1.159375 0.33125,-0.33125 0.828125,-0.33125 1.159375,0 l 6.790625,6.542188 c 0.33125,0.33125 0.33125,0.828125 0,1.159375 -0.165625,0.165625 -0.33125,0.248437 -0.579687,0.248437 z"
+   id="path16"
+   style="fill:url(#SVGID_2_);stroke-width:0.828125"
+   inkscape:connector-curvature="0" />
+</svg>

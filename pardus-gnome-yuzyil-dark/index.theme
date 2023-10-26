@@ -1,0 +1,9 @@
+[Icon Theme]
+Name=Pardus GNOME 100th Year Dark
+Name[tr]=Pardus GNOME 100. Yıl Koyu
+Comment=Dark icon theme for Pardus GNOME.
+Comment[tr]=Pardus GNOME için koyu simge teması.
+Inherits=pardus-gnome-yuzyil
+
+# List all directories
+Directories=
