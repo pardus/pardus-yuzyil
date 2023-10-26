@@ -5,7 +5,7 @@ build:
 	bash create-xml.sh
 
 install:
-	# icons
+	# icon themes
 	mkdir -p $(DESTDIR)/usr/share/icons
 	cp -fr pardus-xfce-yuzyil $(DESTDIR)/usr/share/icons/
 	cp -fr pardus-xfce-yuzyil-dark $(DESTDIR)/usr/share/icons/
@@ -34,9 +34,10 @@ install:
 	mkdir -p $(DESTDIR)/usr/share/applications
 	cp -fr tr.org.pardus.yuzyil.desktop $(DESTDIR)/usr/share/applications/
 
-	# icon
+	# icons
 	mkdir -p $(DESTDIR)/usr/share/icons/hicolor/scalable/apps
-	cp -fr pardus-yuzyil.svg $(DESTDIR)/usr/share/icons/hicolor/scalable/apps/
+	cp -fr icons/pardus-yuzyil.svg $(DESTDIR)/usr/share/icons/hicolor/scalable/apps/
+	cp -fr icons/start-yuzyil.svg $(DESTDIR)/usr/share/icons/hicolor/scalable/apps/
 
 uninstall:
 	rm -fr $(DESTDIR)/usr/share/icons/pardus-xfce-yuzyil
@@ -56,6 +57,7 @@ uninstall:
 	rm -fr $(DESTDIR)/usr/bin/pardus-yuzyil
 	rm -fr $(DESTDIR)/usr/share/applications/tr.org.pardus.yuzyil.desktop
 	rm -fr $(DESTDIR)/usr/share/icons/hicolor/scalable/apps/pardus-yuzyil.svg
+	rm -fr $(DESTDIR)/usr/share/icons/hicolor/scalable/apps/start-yuzyil.svg
 
 
 .PHONY: install uninstall

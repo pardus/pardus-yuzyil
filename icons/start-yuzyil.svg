@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="yuzyil-start.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="4.4800492"
+     inkscape:cx="93.860577"
+     inkscape:cy="37.164771"
+     inkscape:window-width="1920"
+     inkscape:window-height="1128"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4"
+       transform="matrix(7.9976921e-4,0,0,7.9976921e-4,30.747081,81.633383)">
+      <g
+         id="g1"
+         transform="matrix(0.403341,0,0,0.403341,-18983.385,-56605.705)">
+        <circle
+           style="fill:#e30a17;fill-opacity:1;stroke:#000000;stroke-width:75;stroke-opacity:0"
+           id="path4"
+           cx="-22004.135"
+           cy="-86475.422"
+           r="25389.031" />
+        <path
+           fill="#ffffff"
+           d="m -15412.978,-86475.42 13567.9999,-4408.001 -8385.9999,11541.001 v -14266.001 l 8385.9999,11541.001 z m 925,8021 a 15000,15000 0 1 1 0,-16042.001 12000,12000 0 1 0 0,16042.001 z"
+           id="path3"
+           style="fill:#ffffff;fill-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
