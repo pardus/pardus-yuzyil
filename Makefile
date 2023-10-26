@@ -34,6 +34,10 @@ install:
 	mkdir -p $(DESTDIR)/usr/share/applications
 	cp -fr tr.org.pardus.yuzyil.desktop $(DESTDIR)/usr/share/applications/
 
+	# icon
+	mkdir -p $(DESTDIR)/usr/share/icons/hicolor/scalable/apps
+	cp -fr pardus-yuzyil.svg $(DESTDIR)/usr/share/icons/hicolor/scalable/apps/
+
 uninstall:
 	rm -fr $(DESTDIR)/usr/share/icons/pardus-xfce-yuzyil
 	rm -fr $(DESTDIR)/usr/share/icons/pardus-xfce-yuzyil-dark
@@ -51,7 +55,8 @@ uninstall:
 
 	rm -fr $(DESTDIR)/usr/bin/pardus-yuzyil
 	rm -fr $(DESTDIR)/usr/share/applications/tr.org.pardus.yuzyil.desktop
-	
+	rm -fr $(DESTDIR)/usr/share/icons/hicolor/scalable/apps/pardus-yuzyil.svg
+
 
 .PHONY: install uninstall
 
