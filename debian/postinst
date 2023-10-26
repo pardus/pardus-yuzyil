@@ -2,7 +2,7 @@
 
 mkdir -p /usr/share/pardus/pardus-special-theme
 
-special_theme_json="/usr/share/pardus/pardus-special-theme/special_theme.json"
+special_theme_json="/usr/share/pardus/pardus-special-theme/special-theme.json"
 
 if [[ -f "$special_theme_json" ]]; then
     rm -f $special_theme_json
