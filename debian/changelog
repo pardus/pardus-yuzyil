@@ -1,5 +1,27 @@
-pardus-yuzyil (0.1.0) unstable; urgency=medium
+pardus-yuzyil (1.0.0) unstable; urgency=medium
 
-  * Initial release.
+  [ Fatih Altun ]
+  * Add pardus-yuzyil script
 
- -- Fatih Altun <fatih.altun@pardus.org.tr>  Fri, 04 Jun 2021 10:58:23 +0300
+  [ Yusuf Düzgün ]
+  * add 100yil icons gnome variants
+  * update assets
+
+  [ Fatih Altun ]
+  * Add desktop file
+  * Fix typo
+  * Add desktop file, script and gnome icons to Makefile
+  * Add desktop env control to script
+  * Fix greeter open args
+  * Add inherit to pardus-xfce
+  * Add pardus-yuzyil icon
+  * Add icon to Makefile
+  * Fix typo
+  * Update control long description
+  * Add panel icon
+  * Add panel key to special_json
+  * Fix typo
+  * Update wallpaper
+  * Fix typo
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Fri, 27 Oct 2023 17:05:48 +0300
